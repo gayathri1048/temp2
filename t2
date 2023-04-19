@@ -1,5 +1,3 @@
-num=int(input())
-if(num%2==0):
-  print(num+" is even")
-else:
-  print(num+" is odd")
+num1=int(input())
+num2=int(input())
+print(num1+num2)
